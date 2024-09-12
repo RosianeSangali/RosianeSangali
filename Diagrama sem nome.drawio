@@ -44,11 +44,17 @@
         <mxCell id="GPR2DVeR3QreYbpcR4uf-5" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Sala de Aula Invertida (Sala de Aula Invertida)&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="35.5" y="560" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="XJwnbb6XpXiKcCrQJQJd-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GPR2DVeR3QreYbpcR4uf-6" target="GPR2DVeR3QreYbpcR4uf-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GPR2DVeR3QreYbpcR4uf-6" value="&#xa;Gamificação:&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="175.5" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GPR2DVeR3QreYbpcR4uf-7" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Design Thinking&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="314.5" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XJwnbb6XpXiKcCrQJQJd-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GPR2DVeR3QreYbpcR4uf-8" target="XJwnbb6XpXiKcCrQJQJd-77">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GPR2DVeR3QreYbpcR4uf-8" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Cultura Maker&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="315.5" y="560" width="120" height="60" as="geometry" />
@@ -69,7 +75,7 @@
           <mxGeometry x="44.5" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GPR2DVeR3QreYbpcR4uf-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="175.5" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="175.5" y="670" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GPR2DVeR3QreYbpcR4uf-14" value="Seminários e Discussões" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="185.5" y="740" width="120" height="60" as="geometry" />
@@ -320,6 +326,9 @@
         </mxCell>
         <mxCell id="XJwnbb6XpXiKcCrQJQJd-71" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="35.5" y="660" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XJwnbb6XpXiKcCrQJQJd-77" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="315.5" y="640" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
