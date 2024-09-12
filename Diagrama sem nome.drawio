@@ -113,8 +113,11 @@
         <mxCell id="GPR2DVeR3QreYbpcR4uf-96" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;b&gt;Habilidades&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-827" y="141" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GPR2DVeR3QreYbpcR4uf-102" value="Definiro tema(amplo) • Identificaro problema • Proporas hipóteses • Delimitarosobjetivos • Construiras justificativas • Levantaro referencialteórico • Definira metodologia • Desenvolvero cronograma" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-500" y="244" width="130" height="256" as="geometry" />
+        <mxCell id="XJwnbb6XpXiKcCrQJQJd-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GPR2DVeR3QreYbpcR4uf-102" target="XJwnbb6XpXiKcCrQJQJd-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GPR2DVeR3QreYbpcR4uf-102" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Decomposição:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Definir o tema(amplo)&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&amp;nbsp;Identificaro problema&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Proporas hipóteses&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Delimitarosobjetivos&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Construiras justificativas&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Levantaro referencialteórico&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Definira metodologia&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Desenvolver o cronograma&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="244" width="200" height="156" as="geometry" />
         </mxCell>
         <mxCell id="XJwnbb6XpXiKcCrQJQJd-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XJwnbb6XpXiKcCrQJQJd-3">
           <mxGeometry relative="1" as="geometry">
@@ -224,8 +227,8 @@
             <mxPoint x="-430" y="675" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XJwnbb6XpXiKcCrQJQJd-27" value="Abstração" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-490" y="570" width="120" height="60" as="geometry" />
+        <mxCell id="XJwnbb6XpXiKcCrQJQJd-27" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Abstração&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Foco nas informações que são mais importantes?&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Foco na resolução do problema&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="425" width="230" height="130" as="geometry" />
         </mxCell>
         <mxCell id="XJwnbb6XpXiKcCrQJQJd-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XJwnbb6XpXiKcCrQJQJd-29" target="XJwnbb6XpXiKcCrQJQJd-32">
           <mxGeometry relative="1" as="geometry" />
