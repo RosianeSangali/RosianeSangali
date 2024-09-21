@@ -231,8 +231,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XJwnbb6XpXiKcCrQJQJd-27" value="&#xa;&lt;p&gt;&lt;strong&gt;Reconhecimento de Padrões&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Identificar semelhanças e padrões em problemas ou dados.&lt;/li&gt;&lt;li&gt;Ajuda a reutilizar soluções e otimizar processos.&lt;/li&gt;&lt;/ul&gt;&#xa;&#xa;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-510" y="455" width="230" height="95" as="geometry" />
+        <mxCell id="XJwnbb6XpXiKcCrQJQJd-27" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;Reconhecimento de Padrões&lt;/strong&gt;&lt;/p&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Identificar semelhanças e padrões em problemas ou dados.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Ajuda a reutilizar soluções e otimizar processos.&lt;/span&gt;&lt;/p&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-510" y="455" width="260" height="105" as="geometry" />
         </mxCell>
         <mxCell id="XJwnbb6XpXiKcCrQJQJd-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="XJwnbb6XpXiKcCrQJQJd-29" target="XJwnbb6XpXiKcCrQJQJd-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -275,11 +275,11 @@
             <mxPoint x="-363" y="790" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XJwnbb6XpXiKcCrQJQJd-50" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;p&gt;&lt;strong&gt;Abstração&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Focar nas informações mais importantes, ignorando detalhes desnecessários.&lt;/li&gt;&lt;li&gt;Simplifica a complexidade ao lidar apenas com aspectos relevantes.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="XJwnbb6XpXiKcCrQJQJd-50" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;Abstração&lt;/strong&gt;&lt;/p&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Focar nas informações mais importantes, ignorando detalhes desnecessários.&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Simplifica a complexidade ao lidar apenas com aspectos relevantes.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-520" y="650" width="240" height="107.5" as="geometry" />
         </mxCell>
         <mxCell id="XJwnbb6XpXiKcCrQJQJd-53" value="&lt;p&gt;&lt;strong&gt;Algoritmos&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Desenvolver passos ou regras sequenciais para resolver problemas.&lt;/li&gt;&lt;li&gt;Promove a criação de soluções eficientes e automáticas.&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-520" y="847.5" width="240" height="112.5" as="geometry" />
+          <mxGeometry x="-520" y="847.5" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="XJwnbb6XpXiKcCrQJQJd-55" value="&lt;b&gt;Por área de Conhecimento&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-840" y="228" width="120" height="71" as="geometry" />
