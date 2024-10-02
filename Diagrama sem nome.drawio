@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.16" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16" pages="2">
   <diagram name="Página-1" id="2mrk-HP-_fAwY83XtIVn">
-    <mxGraphModel dx="2944" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2944" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -47,6 +47,11 @@
         </mxCell>
         <mxCell id="GPR2DVeR3QreYbpcR4uf-9" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Pilares&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-650" y="162" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GAu0VWYn0yyhX2unOri9-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GPR2DVeR3QreYbpcR4uf-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-230" y="230" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="GPR2DVeR3QreYbpcR4uf-10" value="Competências&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-290" y="150" width="120" height="60" as="geometry" />
@@ -289,22 +294,25 @@
         <mxCell id="XJwnbb6XpXiKcCrQJQJd-69" value="Responsablidade" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="80" y="891" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="GAu0VWYn0yyhX2unOri9-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z3Z85pJeaKi0Gl7Zka1J-1" target="Z3Z85pJeaKi0Gl7Zka1J-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Z3Z85pJeaKi0Gl7Zka1J-1" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Cleta de dados&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-290" y="244.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="-290" y="237.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z3Z85pJeaKi0Gl7Zka1J-2" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Representação de dados&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-290" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="-290" y="406" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z3Z85pJeaKi0Gl7Zka1J-3" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Análise de Dados&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-290" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="-290" y="323" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z3Z85pJeaKi0Gl7Zka1J-6" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Eecomposição de Problemas&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-290" y="478.25" width="120" height="60" as="geometry" />
+        <mxCell id="Z3Z85pJeaKi0Gl7Zka1J-6" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Decomposição de Problemas&amp;nbsp;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-290" y="493.25" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z3Z85pJeaKi0Gl7Zka1J-7" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Algoritmo e Procedimentos&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-290" y="633.75" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z3Z85pJeaKi0Gl7Zka1J-8" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Astração&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Z3Z85pJeaKi0Gl7Zka1J-8" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font color=&quot;#ff6666&quot; style=&quot;vertical-align: inherit;&quot;&gt;Abstração&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-290" y="553.75" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z3Z85pJeaKi0Gl7Zka1J-9" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;UMutomação&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -315,6 +323,24 @@
         </mxCell>
         <mxCell id="Z3Z85pJeaKi0Gl7Zka1J-11" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Simulação&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-290" y="786.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GAu0VWYn0yyhX2unOri9-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-231" y="301" as="sourcePoint" />
+            <mxPoint x="-231" y="321" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GAu0VWYn0yyhX2unOri9-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-231" y="385" as="sourcePoint" />
+            <mxPoint x="-231" y="405" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GAu0VWYn0yyhX2unOri9-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-228" y="469" as="sourcePoint" />
+            <mxPoint x="-228" y="489" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
