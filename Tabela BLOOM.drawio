@@ -1,9 +1,72 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.0">
   <diagram name="Página-1" id="9eiAQFG9WIgQE3nimeLH">
-    <mxGraphModel>
+    <mxGraphModel dx="1290" dy="1691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BMnigsDUBEjkv0MNzpHX-1" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 24px;&quot;&gt;Conhecimento&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-440" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BMnigsDUBEjkv0MNzpHX-2" value="&lt;div&gt;&amp;nbsp;Habilidade de lembrar informações e conteúdos previamente abordados.&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-440" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BMnigsDUBEjkv0MNzpHX-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-440" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BMnigsDUBEjkv0MNzpHX-4" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 24px;&quot;&gt;Compreensão&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-350" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BMnigsDUBEjkv0MNzpHX-5" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 24px;&quot;&gt;Aplicação&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-260" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BMnigsDUBEjkv0MNzpHX-6" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 24px;&quot;&gt;Análise&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-170" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BMnigsDUBEjkv0MNzpHX-7" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 24px;&quot;&gt;Avaliação&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-80" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BMnigsDUBEjkv0MNzpHX-8" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 24px;&quot;&gt;Criar&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="10" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BMnigsDUBEjkv0MNzpHX-10" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Nível&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-350" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BMnigsDUBEjkv0MNzpHX-11" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Nível&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-260" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BMnigsDUBEjkv0MNzpHX-12" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Nível&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-170" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BMnigsDUBEjkv0MNzpHX-13" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Nível&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-80" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BMnigsDUBEjkv0MNzpHX-14" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Nível&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="10" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BMnigsDUBEjkv0MNzpHX-16" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;: Habilidade de compreender e dar significado ao conteúdo. Traduzir, compreebder ou interpretar informações com base em conhecimento prévio.&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-350" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BMnigsDUBEjkv0MNzpHX-17" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Habilidade de usar informações, métodos e conteúdos aprendidos em novas situações&lt;br/&gt;concretas.&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-260" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BMnigsDUBEjkv0MNzpHX-18" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Habilidade de subdividir o conteúdo em partes menores com a finalidade de entender a&lt;br/&gt;estrutura final.&amp;nbsp; pode incluir a identificação das partes, análise de relacionamento entre&lt;br/&gt;as partes e reconhecimento dos princípios organizacionais envolvidos&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-170" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BMnigsDUBEjkv0MNzpHX-19" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Dfinição&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-80" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BMnigsDUBEjkv0MNzpHX-20" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Dfinição&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="10" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BMnigsDUBEjkv0MNzpHX-22" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 24px;&quot;&gt;Nível&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-530" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BMnigsDUBEjkv0MNzpHX-23" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 24px;&quot;&gt;Dfinição&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-530" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BMnigsDUBEjkv0MNzpHX-24" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit; font-size: 24px;&quot;&gt;Verbos&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-530" width="170" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
