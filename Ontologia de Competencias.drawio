@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3" value="&lt;&lt;evento&gt;&gt; &#xa;Tarefa Humana" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" parent="1" vertex="1">
+        <mxCell id="3" value="&lt;&lt;event&gt;&gt;&#xa;Human Task" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" parent="1" vertex="1">
           <mxGeometry x="413" y="95" width="107" height="315" as="geometry" />
         </mxCell>
         <mxCell id="4" value="&lt;&lt;Categoria&gt;&gt; &#xa;Objeto &#xa;(OVNI)" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#F19C99;" parent="1" vertex="1">
@@ -22,7 +22,7 @@
         <mxCell id="mZcapRQyF1aLiEIGjjHd-100" value="" style="triangle;whiteSpace=wrap;html=1;direction=west;" parent="1" vertex="1">
           <mxGeometry x="261" y="20.5" width="10" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="mZcapRQyF1aLiEIGjjHd-101" value="&lt;&lt;Gentil&gt;&gt; &#xa;Pessoa" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FF6666;" parent="1" vertex="1">
+        <mxCell id="mZcapRQyF1aLiEIGjjHd-101" value="&lt;&lt;Kind&gt;&gt;&#xa;Person" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FF6666;" parent="1" vertex="1">
           <mxGeometry x="685" y="119.99999999999989" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mZcapRQyF1aLiEIGjjHd-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mZcapRQyF1aLiEIGjjHd-102" target="3" edge="1">
@@ -95,7 +95,7 @@
         <mxCell id="mZcapRQyF1aLiEIGjjHd-111" value="&lt;roleMixin&gt;&gt; &#xa;Personal Competence" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#99CCFF;" parent="1" vertex="1">
           <mxGeometry x="935" y="480" width="185" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mZcapRQyF1aLiEIGjjHd-112" value="&lt;&lt;situação&gt;&gt; &#xa;Resultado de competência" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFB366;" parent="1" vertex="1">
+        <mxCell id="mZcapRQyF1aLiEIGjjHd-112" value="&lt;&lt;situation&gt;&gt;&#xa;Competency Outcome" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFB366;" parent="1" vertex="1">
           <mxGeometry x="360" y="480" width="185" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mZcapRQyF1aLiEIGjjHd-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="mZcapRQyF1aLiEIGjjHd-113" target="3" edge="1">
@@ -103,13 +103,13 @@
             <mxPoint x="280" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mZcapRQyF1aLiEIGjjHd-113" value="&lt;&lt;Papel históricoMixin&gt;&gt;" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#F19C99;" parent="1" vertex="1">
+        <mxCell id="mZcapRQyF1aLiEIGjjHd-113" value="&lt;&lt;Historical RoleMixin&gt;&gt;&#xa;Task Output" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#F19C99;" parent="1" vertex="1">
           <mxGeometry x="86" y="410" width="154" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mZcapRQyF1aLiEIGjjHd-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mZcapRQyF1aLiEIGjjHd-114" target="mZcapRQyF1aLiEIGjjHd-115" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mZcapRQyF1aLiEIGjjHd-114" value="&#xa;&lt;&lt;roleMixin&gt;&gt;&#xa;Recurso " style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#F19C99;" parent="1" vertex="1">
+        <mxCell id="mZcapRQyF1aLiEIGjjHd-114" value="&lt;&lt;roleMixin&gt;&gt;&#xa;Resource" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#F19C99;" parent="1" vertex="1">
           <mxGeometry x="83" y="180" width="185" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mZcapRQyF1aLiEIGjjHd-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mZcapRQyF1aLiEIGjjHd-115" target="3" edge="1">
@@ -120,8 +120,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mZcapRQyF1aLiEIGjjHd-115" value="&lt;&lt;Situação&gt;&gt; Contexto de Manifestação &#xa;da Capacidade Humana&#xa;" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFB366;" parent="1" vertex="1">
-          <mxGeometry x="83" y="290" width="185" height="60" as="geometry" />
+        <mxCell id="mZcapRQyF1aLiEIGjjHd-115" value="&lt;&lt;Situation&gt;&gt; &#xa; Human Capacity&#xa;Manifestation Context" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFB366;" parent="1" vertex="1">
+          <mxGeometry x="83" y="300" width="185" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mZcapRQyF1aLiEIGjjHd-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mZcapRQyF1aLiEIGjjHd-116" edge="1">
           <mxGeometry relative="1" as="geometry">
