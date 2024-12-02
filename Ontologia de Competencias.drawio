@@ -104,7 +104,7 @@
         <mxCell id="mZcapRQyF1aLiEIGjjHd-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mZcapRQyF1aLiEIGjjHd-114" target="mZcapRQyF1aLiEIGjjHd-115" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mZcapRQyF1aLiEIGjjHd-114" value="&#xa;Recurso &lt;&lt;roleMixin&gt;&gt;" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#F19C99;" parent="1" vertex="1">
+        <mxCell id="mZcapRQyF1aLiEIGjjHd-114" value="&#xa;&lt;&lt;roleMixin&gt;&gt;&#xa;Recurso " style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#F19C99;" parent="1" vertex="1">
           <mxGeometry x="83" y="180" width="185" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mZcapRQyF1aLiEIGjjHd-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mZcapRQyF1aLiEIGjjHd-115" target="3" edge="1">
@@ -187,9 +187,6 @@
         </mxCell>
         <mxCell id="PSc5GTqTMLzyxb9hNvbQ-9" value="&lt;&lt;Modo&gt;&gt; &#xa;Conhecimento" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1107" y="229.9999999999999" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="PSc5GTqTMLzyxb9hNvbQ-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PSc5GTqTMLzyxb9hNvbQ-15" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;lt;&amp;lt;participação&amp;gt;&amp;gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Executado&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="-0.5" width="120" height="40" as="geometry" />
