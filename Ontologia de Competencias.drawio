@@ -365,6 +365,12 @@
             <mxPoint x="1054" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="JAyAvtaWmfMLdTxkJBlu-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JAyAvtaWmfMLdTxkJBlu-16" target="PSc5GTqTMLzyxb9hNvbQ-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JAyAvtaWmfMLdTxkJBlu-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JAyAvtaWmfMLdTxkJBlu-16" target="PSc5GTqTMLzyxb9hNvbQ-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JAyAvtaWmfMLdTxkJBlu-16" value="Habilidade" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="843.5" y="610" width="120" height="60" as="geometry" />
         </mxCell>
@@ -372,6 +378,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JAyAvtaWmfMLdTxkJBlu-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.156;entryY=1.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JAyAvtaWmfMLdTxkJBlu-16" target="mZcapRQyF1aLiEIGjjHd-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JAyAvtaWmfMLdTxkJBlu-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.578;entryY=-0.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JAyAvtaWmfMLdTxkJBlu-16" target="PSc5GTqTMLzyxb9hNvbQ-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
