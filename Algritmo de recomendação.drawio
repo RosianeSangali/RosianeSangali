@@ -46,8 +46,16 @@
         <mxCell id="94" value="System&#xa;specs" style="text;spacingTop=-5;align=center" parent="1" vertex="1">
           <mxGeometry x="139.99999999999994" y="565.0000000000001" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="QbZV7hvQBQr19PlTNNTo-94" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QbZV7hvQBQr19PlTNNTo-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QbZV7hvQBQr19PlTNNTo-94" target="QbZV7hvQBQr19PlTNNTo-96">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QbZV7hvQBQr19PlTNNTo-94" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QbZV7hvQBQr19PlTNNTo-96" value="Critério 1&amp;nbsp;&lt;div&gt;&lt;strong&gt;Definir temas de interesse&amp;nbsp;&lt;/strong&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="140" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
