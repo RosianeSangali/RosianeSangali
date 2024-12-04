@@ -17,7 +17,7 @@
             <mxPoint x="350" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QbZV7hvQBQr19PlTNNTo-96" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Critério 1:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;strong&gt;Definir temas de interesse.&lt;/strong&gt;&lt;/div&gt;&lt;div&gt;selecionar os temas de pensamento computacional de seu interesse.&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="QbZV7hvQBQr19PlTNNTo-96" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Critério 1:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;strong&gt;Definir temas de interesse.&lt;/strong&gt;&lt;/div&gt;&lt;div&gt;selecionar os temas de pensamento computacional de seu interesse.&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="240" y="120" width="165" height="70" as="geometry" />
         </mxCell>
         <mxCell id="QbZV7hvQBQr19PlTNNTo-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QbZV7hvQBQr19PlTNNTo-98" target="QbZV7hvQBQr19PlTNNTo-100">
@@ -60,13 +60,13 @@
         <mxCell id="QbZV7hvQBQr19PlTNNTo-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QbZV7hvQBQr19PlTNNTo-107" target="QbZV7hvQBQr19PlTNNTo-112">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QbZV7hvQBQr19PlTNNTo-107" value="Critério 2:&lt;div&gt;&lt;b&gt;Consultar planos favoritados.&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Verifica os temas dos planos de aula favoritados pelo usuário.&lt;b&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QbZV7hvQBQr19PlTNNTo-107" value="Critério 2:&lt;div&gt;&lt;b&gt;Consultar planos favoritados.&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Verifica os temas dos planos de aula favoritados pelo usuário.&lt;b&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="232.5" y="355" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QbZV7hvQBQr19PlTNNTo-131" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QbZV7hvQBQr19PlTNNTo-108" target="QbZV7hvQBQr19PlTNNTo-126">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QbZV7hvQBQr19PlTNNTo-108" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Critério 3:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Consultar planos executados&lt;/b&gt;&lt;/span&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/div&gt;&lt;div&gt;Analisa os temas dos planos de aula que o usuário já executou para expandir a busca.&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="QbZV7hvQBQr19PlTNNTo-108" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Critério 3:&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Consultar planos executados&lt;/b&gt;&lt;/span&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/div&gt;&lt;div&gt;Analisa os temas dos planos de aula que o usuário já executou para expandir a busca.&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="232.5" y="600" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QbZV7hvQBQr19PlTNNTo-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.583;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="QbZV7hvQBQr19PlTNNTo-112" target="QbZV7hvQBQr19PlTNNTo-113">
@@ -141,19 +141,19 @@
         <mxCell id="QbZV7hvQBQr19PlTNNTo-136" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QbZV7hvQBQr19PlTNNTo-134" target="QbZV7hvQBQr19PlTNNTo-135">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QbZV7hvQBQr19PlTNNTo-134" value="&lt;div style=&quot;&quot;&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Consultar todos os temas cadastrados&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Realiza uma busca em todos os materiais disponíveis no sistema.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="QbZV7hvQBQr19PlTNNTo-134" value="&lt;div style=&quot;&quot;&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Consultar todos os temas cadastrados&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Realiza uma busca em todos os materiais disponíveis no sistema.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="225" y="840" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QbZV7hvQBQr19PlTNNTo-138" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QbZV7hvQBQr19PlTNNTo-135" target="QbZV7hvQBQr19PlTNNTo-137">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QbZV7hvQBQr19PlTNNTo-135" value="&lt;div style=&quot;&quot;&gt;&lt;strong&gt;Remover materiais criados/executados pelo usuário&lt;/strong&gt;:&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Exclui os materiais que o usuário já cadastrou ou executou.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="QbZV7hvQBQr19PlTNNTo-135" value="&lt;div style=&quot;&quot;&gt;&lt;strong&gt;Remover materiais criados/executados pelo usuário&lt;/strong&gt;:&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Exclui os materiais que o usuário já cadastrou ou executou.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="223.75" y="950" width="182.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QbZV7hvQBQr19PlTNNTo-141" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QbZV7hvQBQr19PlTNNTo-137" target="QbZV7hvQBQr19PlTNNTo-139">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QbZV7hvQBQr19PlTNNTo-137" value="&lt;div style=&quot;&quot;&gt;&lt;b&gt;E&lt;/b&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;xibir materiais encontrados&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Apresenta ao usuário os materiais sugeridos com base nos critérios.&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="QbZV7hvQBQr19PlTNNTo-137" value="&lt;div style=&quot;&quot;&gt;&lt;b&gt;E&lt;/b&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;xibir materiais encontrados&lt;/strong&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;Apresenta ao usuário os materiais sugeridos com base nos critérios.&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#FFFFCC;" vertex="1" parent="1">
           <mxGeometry x="223.75" y="1060" width="182.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QbZV7hvQBQr19PlTNNTo-139" value="Fim" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
