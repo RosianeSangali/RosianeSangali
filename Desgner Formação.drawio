@@ -7,6 +7,26 @@
         <mxCell id="5" value="O Pensamento Computacional e a Formação Continuada de Professores da Educação Básica" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0.0475;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC" parent="1" vertex="1">
           <mxGeometry x="-170" y="-770" width="521" height="69" as="geometry" />
         </mxCell>
+        <mxCell id="SkKkJVJDw8LlTHJwV8wK-193" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="SkKkJVJDw8LlTHJwV8wK-104" target="SkKkJVJDw8LlTHJwV8wK-194">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880" y="-640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SkKkJVJDw8LlTHJwV8wK-195" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="SkKkJVJDw8LlTHJwV8wK-104" target="SkKkJVJDw8LlTHJwV8wK-196">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="595" y="-530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SkKkJVJDw8LlTHJwV8wK-197" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="SkKkJVJDw8LlTHJwV8wK-104" target="SkKkJVJDw8LlTHJwV8wK-198">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="-560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SkKkJVJDw8LlTHJwV8wK-199" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0.579;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SkKkJVJDw8LlTHJwV8wK-104">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="-470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="SkKkJVJDw8LlTHJwV8wK-104" value="Ecossistema de Aprendizagem" style="text;strokeColor=#d6b656;fillColor=#fff2cc;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="450" y="-680" width="290" height="90" as="geometry" />
         </mxCell>
@@ -256,6 +276,18 @@
         </mxCell>
         <mxCell id="SkKkJVJDw8LlTHJwV8wK-190" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.45;entryY=0.045;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="SkKkJVJDw8LlTHJwV8wK-105" target="SkKkJVJDw8LlTHJwV8wK-110">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SkKkJVJDw8LlTHJwV8wK-194" value="&#xa;Planejamento e Design&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="820" y="-670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SkKkJVJDw8LlTHJwV8wK-196" value="Criação de Conteúdo e Recursos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SkKkJVJDw8LlTHJwV8wK-198" value="Implementação e Execução" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="670" y="-560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SkKkJVJDw8LlTHJwV8wK-200" value="&lt;strong&gt;Interação e Colaboração&lt;/strong&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-461.5" width="130" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
