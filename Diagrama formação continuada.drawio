@@ -64,7 +64,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3" value="Fase 2 - Organização do Curso" style="swimlane;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="1" vertex="1">
+        <mxCell id="3" value="Fase 2 - Organização do curso" style="swimlane;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="1" vertex="1">
           <mxGeometry x="430" y="100" width="280" height="570" as="geometry">
             <mxRectangle x="430" y="100" width="210" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -228,13 +228,13 @@
             <mxPoint x="350" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vs5-r7q9pi_8WdNEjkWc-150" value="Fase Exploratória&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="Vs5-r7q9pi_8WdNEjkWc-150" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Fase Exploratória&amp;nbsp;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="130" y="40" width="570" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vs5-r7q9pi_8WdNEjkWc-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vs5-r7q9pi_8WdNEjkWc-151" target="4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Vs5-r7q9pi_8WdNEjkWc-151" value="Fase Descritiva&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="Vs5-r7q9pi_8WdNEjkWc-151" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Fase Descritiva&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="718" y="40" width="642" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Vs5-r7q9pi_8WdNEjkWc-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.551;entryY=0.001;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Vs5-r7q9pi_8WdNEjkWc-150" target="3">
