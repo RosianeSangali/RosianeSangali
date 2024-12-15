@@ -19,9 +19,14 @@
         <mxCell id="Vs5-r7q9pi_8WdNEjkWc-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2" source="7" target="Vs5-r7q9pi_8WdNEjkWc-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Vs5-r7q9pi_8WdNEjkWc-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2" source="7">
+        <mxCell id="Vs5-r7q9pi_8WdNEjkWc-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="99" y="308" as="targetPoint" />
+            <mxPoint x="150" y="261" as="sourcePoint" />
+            <mxPoint x="99" y="309" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="285" />
+              <mxPoint x="100" y="285" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="7" value="Mapeamento Sistemático &#xa;da Literatura" style="" parent="2" vertex="1">
