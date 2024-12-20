@@ -1,9 +1,89 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
-  <diagram name="Página-1" id="sjTogc_G7fZHjcXhRgve">
-    <mxGraphModel>
+  <diagram name="Competência Repertório Cultural" id="sjTogc_G7fZHjcXhRgve">
+    <mxGraphModel dx="2181" dy="1727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="l5BnNqHDkTpnDWXbsolF-1" value="Competência Repertório Cultural" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFE599;" vertex="1" parent="1">
+          <mxGeometry x="300" y="300" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l5BnNqHDkTpnDWXbsolF-2" value="Human Capability" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D9EAD3;" vertex="1" parent="1">
+          <mxGeometry x="100" y="200" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l5BnNqHDkTpnDWXbsolF-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l5BnNqHDkTpnDWXbsolF-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l5BnNqHDkTpnDWXbsolF-3" value="Knowledge" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D0E0E3;" vertex="1" parent="1">
+          <mxGeometry x="500" y="200" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l5BnNqHDkTpnDWXbsolF-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l5BnNqHDkTpnDWXbsolF-4" target="l5BnNqHDkTpnDWXbsolF-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l5BnNqHDkTpnDWXbsolF-4" value="Skill" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CFE2F3;" vertex="1" parent="1">
+          <mxGeometry x="100" y="400" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l5BnNqHDkTpnDWXbsolF-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l5BnNqHDkTpnDWXbsolF-5" target="l5BnNqHDkTpnDWXbsolF-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l5BnNqHDkTpnDWXbsolF-5" value="Personal Competence" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FCE5CD;" vertex="1" parent="1">
+          <mxGeometry x="500" y="400" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l5BnNqHDkTpnDWXbsolF-6" value="Evidence" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F4CCCC;" vertex="1" parent="1">
+          <mxGeometry x="300" y="500" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l5BnNqHDkTpnDWXbsolF-7" value="Competency Outcome" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="300" y="100" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l5BnNqHDkTpnDWXbsolF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;" edge="1" parent="1" source="l5BnNqHDkTpnDWXbsolF-1" target="l5BnNqHDkTpnDWXbsolF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l5BnNqHDkTpnDWXbsolF-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;" edge="1" parent="1" source="l5BnNqHDkTpnDWXbsolF-1" target="l5BnNqHDkTpnDWXbsolF-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l5BnNqHDkTpnDWXbsolF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;" edge="1" parent="1" source="l5BnNqHDkTpnDWXbsolF-1" target="l5BnNqHDkTpnDWXbsolF-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l5BnNqHDkTpnDWXbsolF-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;" edge="1" parent="1" source="l5BnNqHDkTpnDWXbsolF-1" target="l5BnNqHDkTpnDWXbsolF-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l5BnNqHDkTpnDWXbsolF-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;" edge="1" parent="1" source="l5BnNqHDkTpnDWXbsolF-1" target="l5BnNqHDkTpnDWXbsolF-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l5BnNqHDkTpnDWXbsolF-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;" edge="1" parent="1" source="l5BnNqHDkTpnDWXbsolF-1" target="l5BnNqHDkTpnDWXbsolF-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l5BnNqHDkTpnDWXbsolF-17" value="&lt;br&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;envolve a percepção e valorização das identidades culturais e a capacidade de interpretar manifestações culturais diversas&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="70" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l5BnNqHDkTpnDWXbsolF-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="205.71" y="200" as="sourcePoint" />
+            <mxPoint x="149.99571428571423" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l5BnNqHDkTpnDWXbsolF-21" value="&lt;br&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;envolve a percepção e valorização das identidades culturais e a capacidade de interpretar manifestações culturais diversas&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="80" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l5BnNqHDkTpnDWXbsolF-23" value="Inclui habilidades como &lt;strong&gt;interpretação cultural&lt;/strong&gt;, &lt;strong&gt;análise histórica&lt;/strong&gt; e &lt;strong&gt;expressão artística&lt;/strong&gt;, que são diretamente conectadas à prática e aplicação do repertório cultural." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="515" width="280" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="l5BnNqHDkTpnDWXbsolF-26" value="O desenvolvimento dessa competência também reflete capacidades &lt;strong&gt;socioemocionais&lt;/strong&gt;, como empatia e respeito à diversidade, que são indispensáveis para interações culturais enriquecedoras." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="420" width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l5BnNqHDkTpnDWXbsolF-28" value="A &lt;strong&gt;evidência&lt;/strong&gt; para esta competência seria representada pelas manifestações culturais compreendidas e pelos comportamentos que demonstrem respeito e valorização da diversidade cultural." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="570" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l5BnNqHDkTpnDWXbsolF-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.226;entryY=-0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="l5BnNqHDkTpnDWXbsolF-6" target="l5BnNqHDkTpnDWXbsolF-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l5BnNqHDkTpnDWXbsolF-30" value="O resultado esperado seria a formação de indivíduos que reconhecem e valorizam suas identidades culturais e as dos outros, além de se expressarem criativamente em múltiplos contextos." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l5BnNqHDkTpnDWXbsolF-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.286;entryY=1.333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="l5BnNqHDkTpnDWXbsolF-7" target="l5BnNqHDkTpnDWXbsolF-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
