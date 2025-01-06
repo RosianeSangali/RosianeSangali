@@ -73,6 +73,15 @@
         <mxCell id="ohk12R2K4wukZ1CmPXvQ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mZcapRQyF1aLiEIGjjHd-105" target="ohk12R2K4wukZ1CmPXvQ-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="HpisvmxYInTiWvvhe3Xb-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mZcapRQyF1aLiEIGjjHd-105">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1310" y="810" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1004" y="450" />
+              <mxPoint x="1311" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mZcapRQyF1aLiEIGjjHd-105" value="&lt;&lt;Modo&gt;&gt; &#xa;Conhecimento" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#66B2FF;" parent="1" vertex="1">
           <mxGeometry x="931" y="360" width="145" height="60" as="geometry" />
         </mxCell>
@@ -95,6 +104,16 @@
         </mxCell>
         <mxCell id="mZcapRQyF1aLiEIGjjHd-109" value="&lt;&lt;qualidade&gt;&gt; &#xa;proficiência" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#66B2FF;" parent="1" vertex="1">
           <mxGeometry x="600" y="580" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HpisvmxYInTiWvvhe3Xb-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mZcapRQyF1aLiEIGjjHd-110">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1270" y="820" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="835" y="780" />
+              <mxPoint x="1241" y="780" />
+              <mxPoint x="1241" y="820" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="mZcapRQyF1aLiEIGjjHd-110" value="&lt;roleMixin&gt;&gt; &#xa;HABILIDADE" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#99CCFF;" parent="1" vertex="1">
           <mxGeometry x="765" y="580" width="140" height="60" as="geometry" />
@@ -364,6 +383,9 @@
         </mxCell>
         <mxCell id="ohk12R2K4wukZ1CmPXvQ-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.394;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="mZcapRQyF1aLiEIGjjHd-104" target="ohk12R2K4wukZ1CmPXvQ-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HpisvmxYInTiWvvhe3Xb-17" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Capacidade Cognitiva Cientifica&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1271" y="810" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
