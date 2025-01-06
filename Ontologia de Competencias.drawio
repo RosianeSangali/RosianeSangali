@@ -101,8 +101,22 @@
         <mxCell id="mZcapRQyF1aLiEIGjjHd-106" value="&lt;&lt;Modo&gt;&gt; &#xa;Atitude" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#66B2FF;" parent="1" vertex="1">
           <mxGeometry x="1101" y="360" width="110" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="HpisvmxYInTiWvvhe3Xb-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mZcapRQyF1aLiEIGjjHd-107" target="HpisvmxYInTiWvvhe3Xb-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1330" y="455" />
+              <mxPoint x="1376" y="455" />
+              <mxPoint x="1376" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mZcapRQyF1aLiEIGjjHd-107" value="&lt;&lt;categoria&gt;&gt; &#xa;Qualidade Humana" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#99CCFF;" parent="1" vertex="1">
           <mxGeometry x="1240" y="360" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HpisvmxYInTiWvvhe3Xb-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mZcapRQyF1aLiEIGjjHd-108" target="HpisvmxYInTiWvvhe3Xb-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1456" y="520" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="mZcapRQyF1aLiEIGjjHd-108" value="&lt;&lt;categoria&gt;&gt; &#xa;Traço Humano" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#99CCFF;" parent="1" vertex="1">
           <mxGeometry x="1391" y="360" width="130" height="60" as="geometry" />
@@ -451,6 +465,9 @@
         </mxCell>
         <mxCell id="HpisvmxYInTiWvvhe3Xb-35" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Argumentação&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1053.75" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HpisvmxYInTiWvvhe3Xb-38" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Autoconhecimento&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1396" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
