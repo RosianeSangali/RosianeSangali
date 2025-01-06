@@ -115,6 +115,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="HpisvmxYInTiWvvhe3Xb-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mZcapRQyF1aLiEIGjjHd-110">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990" y="880" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="835" y="780" />
+              <mxPoint x="991" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mZcapRQyF1aLiEIGjjHd-110" value="&lt;roleMixin&gt;&gt; &#xa;HABILIDADE" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#99CCFF;" parent="1" vertex="1">
           <mxGeometry x="765" y="580" width="140" height="60" as="geometry" />
         </mxCell>
@@ -386,6 +395,9 @@
         </mxCell>
         <mxCell id="HpisvmxYInTiWvvhe3Xb-17" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Capacidade Cognitiva Cientifica&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1271" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HpisvmxYInTiWvvhe3Xb-19" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Capacidade Cognitiva Criativa&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="956" y="880" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
