@@ -4,6 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HpisvmxYInTiWvvhe3Xb-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="70" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="467" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="3" value="&lt;&lt;evento&gt;&gt; &#xa;Tarefa Humana" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFCC" parent="1" vertex="1">
           <mxGeometry x="413" y="95" width="107" height="315" as="geometry" />
         </mxCell>
@@ -82,6 +90,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="HpisvmxYInTiWvvhe3Xb-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mZcapRQyF1aLiEIGjjHd-105" target="HpisvmxYInTiWvvhe3Xb-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1070" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mZcapRQyF1aLiEIGjjHd-105" value="&lt;&lt;Modo&gt;&gt; &#xa;Conhecimento" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#66B2FF;" parent="1" vertex="1">
           <mxGeometry x="931" y="360" width="145" height="60" as="geometry" />
         </mxCell>
@@ -115,17 +128,32 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HpisvmxYInTiWvvhe3Xb-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mZcapRQyF1aLiEIGjjHd-110">
+        <mxCell id="HpisvmxYInTiWvvhe3Xb-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.642;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mZcapRQyF1aLiEIGjjHd-110" target="HpisvmxYInTiWvvhe3Xb-31">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="990" y="880" as="targetPoint" />
+            <mxPoint x="1240" y="660" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="835" y="780" />
-              <mxPoint x="991" y="780" />
+              <mxPoint x="835" y="570" />
+              <mxPoint x="1241" y="570" />
+              <mxPoint x="1241" y="581" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HpisvmxYInTiWvvhe3Xb-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mZcapRQyF1aLiEIGjjHd-110">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1120" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="835" y="570" />
+              <mxPoint x="1121" y="570" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="mZcapRQyF1aLiEIGjjHd-110" value="&lt;roleMixin&gt;&gt; &#xa;HABILIDADE" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#99CCFF;" parent="1" vertex="1">
           <mxGeometry x="765" y="580" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HpisvmxYInTiWvvhe3Xb-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mZcapRQyF1aLiEIGjjHd-111" target="HpisvmxYInTiWvvhe3Xb-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1190" y="610" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="mZcapRQyF1aLiEIGjjHd-111" value="&lt;roleMixin&gt;&gt; &#xa;Competência Pessoal" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#99CCFF;" parent="1" vertex="1">
           <mxGeometry x="940" y="580" width="185" height="60" as="geometry" />
@@ -160,12 +188,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="HpisvmxYInTiWvvhe3Xb-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mZcapRQyF1aLiEIGjjHd-115" target="mZcapRQyF1aLiEIGjjHd-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mZcapRQyF1aLiEIGjjHd-115" value="&lt;&lt;Situação&gt;&gt;  Contexto de Manifestação &#xa; da Capacidade Humana&#xa;" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFB366;" parent="1" vertex="1">
           <mxGeometry x="83" y="300" width="185" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mZcapRQyF1aLiEIGjjHd-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="mZcapRQyF1aLiEIGjjHd-116" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="80" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HpisvmxYInTiWvvhe3Xb-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mZcapRQyF1aLiEIGjjHd-116" target="HpisvmxYInTiWvvhe3Xb-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-60" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mZcapRQyF1aLiEIGjjHd-116" value="&lt;categoria&gt;&gt; &#xa;Artefato" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#F19C99;" parent="1" vertex="1">
@@ -393,11 +429,28 @@
         <mxCell id="ohk12R2K4wukZ1CmPXvQ-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.394;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="mZcapRQyF1aLiEIGjjHd-104" target="ohk12R2K4wukZ1CmPXvQ-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HpisvmxYInTiWvvhe3Xb-17" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Capacidade Cognitiva Cientifica&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HpisvmxYInTiWvvhe3Xb-17" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Capacidade Cognitiva Cientifica&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF66;" vertex="1" parent="1">
           <mxGeometry x="1271" y="810" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HpisvmxYInTiWvvhe3Xb-19" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Capacidade Cognitiva Criativa&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="956" y="880" width="120" height="60" as="geometry" />
+        <mxCell id="HpisvmxYInTiWvvhe3Xb-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HpisvmxYInTiWvvhe3Xb-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HpisvmxYInTiWvvhe3Xb-22" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Comunicação&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="525" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HpisvmxYInTiWvvhe3Xb-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HpisvmxYInTiWvvhe3Xb-26" target="mZcapRQyF1aLiEIGjjHd-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HpisvmxYInTiWvvhe3Xb-26" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Cultura Digital&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="60" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HpisvmxYInTiWvvhe3Xb-31" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Autogestão&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1173.75" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HpisvmxYInTiWvvhe3Xb-35" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Argumentação&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1053.75" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
