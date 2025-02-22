@@ -4,28 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dKdSaXE48SgPbhcamS2K-30" value="" style="whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#f5f5f5;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="194" y="666" width="1075" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-33" value="Node" style="html=1;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.application;appType=node;archiType=square;fontSize=14;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="390" y="815" width="480" height="145" as="geometry" />
-        </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-34" style="edgeStyle=elbowEdgeStyle;rounded=1;elbow=vertical;html=1;startSize=10;endArrow=block;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=14;dashed=1;" parent="1" source="dKdSaXE48SgPbhcamS2K-35" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="514" y="730" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-35" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;System&lt;div&gt;Software&lt;/div&gt;" style="html=1;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.tech;techType=sysSw;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="444" y="860" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-36" style="edgeStyle=elbowEdgeStyle;rounded=1;elbow=vertical;html=1;startSize=10;endArrow=block;endFill=0;endSize=10;jettySize=auto;orthogonalLoop=1;strokeColor=#808080;fontSize=14;dashed=1;" parent="1" source="dKdSaXE48SgPbhcamS2K-37" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="754" y="730" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dKdSaXE48SgPbhcamS2K-37" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;System&lt;/span&gt;&lt;div&gt;Software&lt;/div&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;fillColor=#AFFFAF;shape=mxgraph.archimate3.tech;techType=sysSw;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="684" y="860" width="140" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="dKdSaXE48SgPbhcamS2K-54" value="Conhecimento prévio" style="html=1;whiteSpace=wrap;fillColor=#0050ef;shape=mxgraph.archimate3.application;appType=func;archiType=rounded;fontSize=14;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="346.5" y="360" width="150" height="75" as="geometry" />
         </mxCell>
