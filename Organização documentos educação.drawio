@@ -1,133 +1,212 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Page-1" id="c7558073-3199-34d8-9f00-42111426c3f3">
-    <mxGraphModel dx="1114" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1354" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="5" value="BASE NACIONAL COMUM CURRICULAR" style="shape=process;whiteSpace=wrap;align=center;verticalAlign=middle;size=0;fontStyle=1;strokeWidth=3;fillColor=#FFCCCC" parent="1" vertex="1">
-          <mxGeometry x="159.5" y="485.36" width="560.5" height="50" as="geometry" />
+          <mxGeometry x="653.5" y="495.36" width="560.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Constituição Federal de 1988 (art. 205 a 214)&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
-          <mxGeometry x="230" y="110" width="410" height="54" as="geometry" />
+          <mxGeometry x="724" y="120" width="410" height="54" as="geometry" />
         </mxCell>
         <mxCell id="8" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Curriculo Estadual&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
-          <mxGeometry x="565" y="330" width="150" height="60" as="geometry" />
+          <mxGeometry x="1059" y="340" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rS8yMesXYMJTC6e7CVPK-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490" y="680" as="targetPoint" />
+            <mxPoint x="984" y="690" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="491" y="640" />
+              <mxPoint x="985" y="650" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="9" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Resolução&amp;nbsp; nº 1, de 4 de outubro&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;de 2022&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
-          <mxGeometry x="565" y="620" width="201.5" height="55.64" as="geometry" />
+          <mxGeometry x="1059" y="630" width="201.5" height="55.64" as="geometry" />
         </mxCell>
         <mxCell id="rS8yMesXYMJTC6e7CVPK-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="10" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="680" as="targetPoint" />
+            <mxPoint x="904" y="690" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="411" y="643" />
+              <mxPoint x="905" y="653" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="10" value="&lt;div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Parecer CNE/CEB nº&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;2/2022&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
-          <mxGeometry x="156" y="610.64" width="180.5" height="65" as="geometry" />
+          <mxGeometry x="650" y="620.64" width="180.5" height="65" as="geometry" />
         </mxCell>
         <mxCell id="36" value="" style="edgeStyle=none;noEdgeStyle=1;strokeColor=#990000;strokeWidth=2" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="441.58000000000004" y="167" as="sourcePoint" />
-            <mxPoint x="440.001052631579" y="217" as="targetPoint" />
+            <mxPoint x="935.58" y="177" as="sourcePoint" />
+            <mxPoint x="934.001052631579" y="227" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="11" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;BCC-COMPUTAÇÃO&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
-          <mxGeometry x="330" y="685" width="240" height="65" as="geometry" />
+          <mxGeometry x="824" y="695" width="240" height="65" as="geometry" />
         </mxCell>
         <mxCell id="68" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="639.5" y="390" as="sourcePoint" />
-            <mxPoint x="640" y="480" as="targetPoint" />
+            <mxPoint x="1133.5" y="400" as="sourcePoint" />
+            <mxPoint x="1134" y="490" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="639.5" y="430" />
+              <mxPoint x="1133.5" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="83" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="665.25" y="535.36" as="sourcePoint" />
-            <mxPoint x="665.25" y="615.36" as="targetPoint" />
+            <mxPoint x="1159.25" y="545.36" as="sourcePoint" />
+            <mxPoint x="1159.25" y="625.36" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="85" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="450" y="535.36" as="sourcePoint" />
-            <mxPoint x="450" y="680" as="targetPoint" />
+            <mxPoint x="944" y="545.36" as="sourcePoint" />
+            <mxPoint x="944" y="690" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="450" y="585.36" />
+              <mxPoint x="944" y="595.36" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="JZzo84GlXCVfw6jYOfZ_-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rS8yMesXYMJTC6e7CVPK-96" target="6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="450" y="192" />
-              <mxPoint x="435" y="192" />
+              <mxPoint x="944" y="202" />
+              <mxPoint x="929" y="202" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="rS8yMesXYMJTC6e7CVPK-96" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Lei de diretrizes&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;nbsp;de Base&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
-          <mxGeometry x="290" y="220" width="300" height="50" as="geometry" />
+          <mxGeometry x="784" y="230" width="300" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rS8yMesXYMJTC6e7CVPK-99" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2;exitX=0.567;exitY=0.996;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="438.98800000000006" y="401.5" as="sourcePoint" />
-            <mxPoint x="440.52" y="485.36" as="targetPoint" />
+            <mxPoint x="932.988" y="411.5" as="sourcePoint" />
+            <mxPoint x="934.52" y="495.36" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <UserObject label="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Diretrizes&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;nbsp;Curriculares&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;" link="data:page/id,c7558073-3199-34d8-9f00-42111426c3f3" id="rS8yMesXYMJTC6e7CVPK-100">
           <mxCell style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
-            <mxGeometry x="351" y="330" width="191" height="60" as="geometry" />
+            <mxGeometry x="845" y="340" width="191" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="rS8yMesXYMJTC6e7CVPK-101" value="&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Conselho Nacional&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px; margin-top: 4px; text-align: center; text-decoration: underline;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;nbsp;de Educação&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;" style="verticalAlign=middle;align=center;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;fontStyle=1;strokeWidth=3;fillColor=#E6FFCC" parent="1" vertex="1">
-          <mxGeometry x="156" y="330" width="150" height="60" as="geometry" />
+          <mxGeometry x="650" y="340" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rS8yMesXYMJTC6e7CVPK-103" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="443.5" y="270" as="sourcePoint" />
-            <mxPoint x="443.5" y="320" as="targetPoint" />
+            <mxPoint x="937.5" y="280" as="sourcePoint" />
+            <mxPoint x="937.5" y="330" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rS8yMesXYMJTC6e7CVPK-108" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="294" y="270" as="sourcePoint" />
-            <mxPoint x="294" y="330" as="targetPoint" />
+            <mxPoint x="788" y="280" as="sourcePoint" />
+            <mxPoint x="788" y="340" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rS8yMesXYMJTC6e7CVPK-109" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="590" y="270" as="sourcePoint" />
-            <mxPoint x="590" y="330" as="targetPoint" />
+            <mxPoint x="1084" y="280" as="sourcePoint" />
+            <mxPoint x="1084" y="340" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rS8yMesXYMJTC6e7CVPK-113" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2;entryX=0.539;entryY=-0.018;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="10" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="255.71" y="537.8" as="sourcePoint" />
-            <mxPoint x="254.74549999999996" y="620.0049999999999" as="targetPoint" />
+            <mxPoint x="749.71" y="547.8" as="sourcePoint" />
+            <mxPoint x="748.7455" y="630.0049999999999" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rS8yMesXYMJTC6e7CVPK-114" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;strokeColor=#990000;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="230.5" y="390" as="sourcePoint" />
-            <mxPoint x="230" y="480" as="targetPoint" />
+            <mxPoint x="724.5" y="400" as="sourcePoint" />
+            <mxPoint x="724" y="490" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JZzo84GlXCVfw6jYOfZ_-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JZzo84GlXCVfw6jYOfZ_-86" target="JZzo84GlXCVfw6jYOfZ_-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JZzo84GlXCVfw6jYOfZ_-86" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 700; text-decoration-line: underline;&quot;&gt;Constituição Federal de 1988 (art. 205 a 214)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="260" y="40" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JZzo84GlXCVfw6jYOfZ_-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.417;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JZzo84GlXCVfw6jYOfZ_-87" target="JZzo84GlXCVfw6jYOfZ_-88">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JZzo84GlXCVfw6jYOfZ_-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JZzo84GlXCVfw6jYOfZ_-87" target="JZzo84GlXCVfw6jYOfZ_-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JZzo84GlXCVfw6jYOfZ_-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="346" y="190" as="sourcePoint" />
+            <mxPoint x="351" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="346" y="191" />
+              <mxPoint x="351" y="191" />
+              <mxPoint x="351" y="231" />
+              <mxPoint x="352" y="231" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JZzo84GlXCVfw6jYOfZ_-87" value="&lt;br&gt;&lt;div&gt;&lt;div style=&quot;font-weight: 700; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Lei de diretrizes&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-weight: 700; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&amp;nbsp;de Base - LdB&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="260" y="130" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JZzo84GlXCVfw6jYOfZ_-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JZzo84GlXCVfw6jYOfZ_-88" target="JZzo84GlXCVfw6jYOfZ_-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JZzo84GlXCVfw6jYOfZ_-88" value="&lt;b&gt;Conselho Nacional de Educação - CNE&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="130" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JZzo84GlXCVfw6jYOfZ_-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="270" as="targetPoint" />
+            <mxPoint x="440" y="230" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JZzo84GlXCVfw6jYOfZ_-89" value="&lt;b&gt;Diretrizes Curriculares Nacionais - DCN&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="440" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JZzo84GlXCVfw6jYOfZ_-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JZzo84GlXCVfw6jYOfZ_-93">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JZzo84GlXCVfw6jYOfZ_-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JZzo84GlXCVfw6jYOfZ_-93">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JZzo84GlXCVfw6jYOfZ_-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JZzo84GlXCVfw6jYOfZ_-93" target="JZzo84GlXCVfw6jYOfZ_-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JZzo84GlXCVfw6jYOfZ_-93" value="&lt;b&gt;Base Nacional Comum Curricular - BNCC&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="270" y="270" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JZzo84GlXCVfw6jYOfZ_-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JZzo84GlXCVfw6jYOfZ_-109">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JZzo84GlXCVfw6jYOfZ_-109" value="&lt;b&gt;Parecer CNE/CEB n 2/2022&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="120" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JZzo84GlXCVfw6jYOfZ_-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JZzo84GlXCVfw6jYOfZ_-110">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JZzo84GlXCVfw6jYOfZ_-110" value="&lt;div&gt;&lt;font style=&quot;font-weight: 700; text-wrap-mode: nowrap; vertical-align: inherit;&quot;&gt;Resolução&amp;nbsp; nº 1,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-weight: 700; text-wrap-mode: nowrap; vertical-align: inherit;&quot;&gt;&amp;nbsp;de 4 de outubro&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;font-weight: 700; text-wrap-mode: nowrap;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;de 2022&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="460" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JZzo84GlXCVfw6jYOfZ_-111" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 700; text-wrap-mode: nowrap; text-decoration-line: underline;&quot;&gt;BNCC&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 700; text-wrap-mode: nowrap; text-decoration-line: underline;&quot;&gt;COMPUTAÇÃO&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
