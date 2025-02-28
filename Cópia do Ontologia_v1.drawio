@@ -1985,7 +1985,7 @@
           <mxGeometry x="1050" y="790" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NYOqWAI7hfWtqfUs2L6S-2" value="Identidade Cultural " style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFFF;" parent="AIZycLwM51-gTxUAc9_Z-1" vertex="1">
-          <mxGeometry x="330" y="610" width="130" height="60" as="geometry" />
+          <mxGeometry x="138" y="690" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NYOqWAI7hfWtqfUs2L6S-3" value="Criatividade" style="whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=1;strokeWidth=3;fillColor=#FFFFFF;" parent="AIZycLwM51-gTxUAc9_Z-1" vertex="1">
           <mxGeometry x="1211" y="790" width="130" height="60" as="geometry" />
@@ -2030,7 +2030,48 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tLc7yl-kAlIEm_vdR98s-14" value="&#xa;&lt;span data-sheets-root=&quot;1&quot; style=&quot;font-size:10pt;font-family:Arial;font-style:normal;&quot;&gt;Competência Digital&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="AIZycLwM51-gTxUAc9_Z-1">
-          <mxGeometry x="220" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tLc7yl-kAlIEm_vdR98s-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AIZycLwM51-gTxUAc9_Z-1" source="tLc7yl-kAlIEm_vdR98s-16" target="tLc7yl-kAlIEm_vdR98s-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tLc7yl-kAlIEm_vdR98s-16" value="&lt;span style=&quot;font-size: 10pt; font-family: Arial; font-weight: bold;&quot; data-sheets-root=&quot;1&quot;&gt;5-Cultura Digital:&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="AIZycLwM51-gTxUAc9_Z-1">
+          <mxGeometry x="182.25" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tLc7yl-kAlIEm_vdR98s-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="AIZycLwM51-gTxUAc9_Z-1" source="tLc7yl-kAlIEm_vdR98s-17" target="tLc7yl-kAlIEm_vdR98s-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tLc7yl-kAlIEm_vdR98s-17" value="Trabalho&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="AIZycLwM51-gTxUAc9_Z-1">
+          <mxGeometry x="420" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tLc7yl-kAlIEm_vdR98s-18" value="&amp;nbsp;Projeto de Vida" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="AIZycLwM51-gTxUAc9_Z-1">
+          <mxGeometry x="425" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tLc7yl-kAlIEm_vdR98s-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.323;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="AIZycLwM51-gTxUAc9_Z-1" source="tLc7yl-kAlIEm_vdR98s-16" target="NYOqWAI7hfWtqfUs2L6S-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tLc7yl-kAlIEm_vdR98s-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="AIZycLwM51-gTxUAc9_Z-1" source="tLc7yl-kAlIEm_vdR98s-23" target="tLc7yl-kAlIEm_vdR98s-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tLc7yl-kAlIEm_vdR98s-23" value="Argumentação:" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="AIZycLwM51-gTxUAc9_Z-1">
+          <mxGeometry x="-70" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tLc7yl-kAlIEm_vdR98s-24" value="&lt;span style=&quot;text-align: start; font-size: 10pt; font-family: Arial;&quot; data-sheets-root=&quot;1&quot;&gt;CONSCIÊNCIA&lt;br&gt;GLOBAL&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="AIZycLwM51-gTxUAc9_Z-1">
+          <mxGeometry x="-160" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tLc7yl-kAlIEm_vdR98s-25" value="&lt;span style=&quot;text-align: start; font-size: 10pt; font-family: Arial;&quot; data-sheets-root=&quot;1&quot;&gt;Argumentação matemática.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="AIZycLwM51-gTxUAc9_Z-1">
+          <mxGeometry x="2.25" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tLc7yl-kAlIEm_vdR98s-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.667;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="AIZycLwM51-gTxUAc9_Z-1" source="tLc7yl-kAlIEm_vdR98s-23" target="tLc7yl-kAlIEm_vdR98s-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;table xmlns=&quot;http://www.w3.org/1999/xhtml&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; dir=&quot;ltr&quot; border=&quot;1&quot; style=&quot;table-layout:fixed;font-size:10pt;font-family:Arial;width:0px;border-collapse:collapse;border:none&quot; data-sheets-root=&quot;1&quot; data-sheets-baot=&quot;1&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;240&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:21px;&quot;&gt;&lt;td style=&quot;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;&quot;&gt;Autoconsciência&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height:21px;&quot;&gt;&lt;td style=&quot;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;&quot;&gt;Autoestima&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height:21px;&quot;&gt;&lt;td style=&quot;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;&quot;&gt;Autoconfiança&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height:21px;&quot;&gt;&lt;td style=&quot;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;&quot;&gt;Equilíbrio emocional&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height:21px;&quot;&gt;&lt;td style=&quot;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;&quot;&gt;Saúde e desenvolvimento físico&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height:21px;&quot;&gt;&lt;td style=&quot;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;&quot;&gt;Atenção plena e capacidade de reflexão&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" link="&lt;table xmlns=&quot;http://www.w3.org/1999/xhtml&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; dir=&quot;ltr&quot; border=&quot;1&quot; style=&quot;table-layout:fixed;font-size:10pt;font-family:Arial;width:0px;border-collapse:collapse;border:none&quot; data-sheets-root=&quot;1&quot; data-sheets-baot=&quot;1&quot;&gt;&lt;colgroup&gt;&lt;col width=&quot;240&quot;&gt;&lt;/colgroup&gt;&lt;tbody&gt;&lt;tr style=&quot;height:21px;&quot;&gt;&lt;td style=&quot;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;&quot;&gt;Autoconsciência&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height:21px;&quot;&gt;&lt;td style=&quot;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;&quot;&gt;Autoestima&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height:21px;&quot;&gt;&lt;td style=&quot;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;&quot;&gt;Autoconfiança&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height:21px;&quot;&gt;&lt;td style=&quot;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;&quot;&gt;Equilíbrio emocional&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height:21px;&quot;&gt;&lt;td style=&quot;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;&quot;&gt;Saúde e desenvolvimento físico&lt;/td&gt;&lt;/tr&gt;&lt;tr style=&quot;height:21px;&quot;&gt;&lt;td style=&quot;overflow:hidden;padding:2px 3px 2px 3px;vertical-align:bottom;&quot;&gt;Atenção plena e capacidade de reflexão&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" id="tLc7yl-kAlIEm_vdR98s-28">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="AIZycLwM51-gTxUAc9_Z-1">
+            <mxGeometry x="-170" y="840" width="270" height="150" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="tLc7yl-kAlIEm_vdR98s-29" value="&lt;span style=&quot;font-size: 10pt; font-family: Arial; font-weight: bold;&quot; data-sheets-root=&quot;1&quot;&gt;8-Autoconhecimento e Autocuidado:&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="AIZycLwM51-gTxUAc9_Z-1">
+          <mxGeometry x="-33" y="740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
