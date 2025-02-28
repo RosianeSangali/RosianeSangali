@@ -2036,7 +2036,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tLc7yl-kAlIEm_vdR98s-16" value="&lt;span style=&quot;font-size: 10pt; font-family: Arial; font-weight: bold;&quot; data-sheets-root=&quot;1&quot;&gt;5-Cultura Digital:&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="AIZycLwM51-gTxUAc9_Z-1">
-          <mxGeometry x="182.25" y="590" width="120" height="60" as="geometry" />
+          <mxGeometry x="203" y="590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tLc7yl-kAlIEm_vdR98s-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=1;" edge="1" parent="AIZycLwM51-gTxUAc9_Z-1" source="tLc7yl-kAlIEm_vdR98s-17" target="tLc7yl-kAlIEm_vdR98s-18">
           <mxGeometry relative="1" as="geometry" />
@@ -2075,23 +2075,23 @@
         </mxCell>
         <mxCell id="tLc7yl-kAlIEm_vdR98s-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=1;" edge="1" parent="AIZycLwM51-gTxUAc9_Z-1" source="tLc7yl-kAlIEm_vdR98s-29">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="186.5" y="830" as="targetPoint" />
+            <mxPoint x="36.5" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tLc7yl-kAlIEm_vdR98s-29" value="&lt;span style=&quot;font-size: 10pt; font-family: Arial; font-weight: bold;&quot; data-sheets-root=&quot;1&quot;&gt;Autoconhecimento e Autocuidado:&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="AIZycLwM51-gTxUAc9_Z-1">
-          <mxGeometry x="-170.5" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="-270" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tLc7yl-kAlIEm_vdR98s-31" value="&lt;span style=&quot;font-family: Arial; font-size: 13.3333px; text-align: left;&quot;&gt;Equilíbrio emocional&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="AIZycLwM51-gTxUAc9_Z-1">
-          <mxGeometry x="-41.25" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="-191.25" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tLc7yl-kAlIEm_vdR98s-32" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial; font-size: 13.3333px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Autoconfiança&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="AIZycLwM51-gTxUAc9_Z-1">
-          <mxGeometry x="-193.5" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="-343.5" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tLc7yl-kAlIEm_vdR98s-33" value="&lt;span style=&quot;font-family: Arial; font-size: 13.3333px; text-align: left;&quot;&gt;Autoestima&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="AIZycLwM51-gTxUAc9_Z-1">
-          <mxGeometry x="-340" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="-490" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tLc7yl-kAlIEm_vdR98s-34" value="&lt;span style=&quot;font-family: Arial; font-size: 13.3333px; text-align: left;&quot;&gt;Autoconsciência&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="AIZycLwM51-gTxUAc9_Z-1">
-          <mxGeometry x="107.5" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="-42.5" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tLc7yl-kAlIEm_vdR98s-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.588;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=1;" edge="1" parent="AIZycLwM51-gTxUAc9_Z-1" source="tLc7yl-kAlIEm_vdR98s-29" target="tLc7yl-kAlIEm_vdR98s-33">
           <mxGeometry relative="1" as="geometry" />
