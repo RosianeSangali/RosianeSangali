@@ -1651,7 +1651,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Core-O 1" id="3OcbiuH1I4rAXl7vjAeb">
-    <mxGraphModel dx="2176" dy="1692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2416" dy="1692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="AIZycLwM51-gTxUAc9_Z-0" />
         <mxCell id="AIZycLwM51-gTxUAc9_Z-1" parent="AIZycLwM51-gTxUAc9_Z-0" />
@@ -2080,9 +2080,6 @@
         </mxCell>
         <mxCell id="tLc7yl-kAlIEm_vdR98s-29" value="&lt;span style=&quot;font-size: 10pt; font-family: Arial; font-weight: bold;&quot; data-sheets-root=&quot;1&quot;&gt;Autoconhecimento e Autocuidado:&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="AIZycLwM51-gTxUAc9_Z-1">
           <mxGeometry x="-170.5" y="740" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tLc7yl-kAlIEm_vdR98s-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="AIZycLwM51-gTxUAc9_Z-1">
-          <mxGeometry x="570" y="690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tLc7yl-kAlIEm_vdR98s-31" value="&lt;span style=&quot;font-family: Arial; font-size: 13.3333px; text-align: left;&quot;&gt;Equilíbrio emocional&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="AIZycLwM51-gTxUAc9_Z-1">
           <mxGeometry x="-41.25" y="840" width="120" height="60" as="geometry" />
