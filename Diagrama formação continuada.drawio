@@ -131,7 +131,7 @@
         <mxCell id="Vs5-r7q9pi_8WdNEjkWc-92" value=" Survey&#xa;Pós formação" style="fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="4" vertex="1">
           <mxGeometry x="26" y="360" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Vs5-r7q9pi_8WdNEjkWc-94" value="Finalização do curso" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="4" vertex="1">
+        <mxCell id="Vs5-r7q9pi_8WdNEjkWc-94" value="Finalização da formação" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="4" vertex="1">
           <mxGeometry x="112" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vs5-r7q9pi_8WdNEjkWc-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="4" target="Vs5-r7q9pi_8WdNEjkWc-88" edge="1">
