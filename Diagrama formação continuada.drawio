@@ -116,7 +116,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vs5-r7q9pi_8WdNEjkWc-77" value="Preparação do&amp;nbsp; curso" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="3" vertex="1">
+        <mxCell id="Vs5-r7q9pi_8WdNEjkWc-77" value="Preparação da&amp;nbsp; formação" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" parent="3" vertex="1">
           <mxGeometry x="91" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4" value="Fase 3 - Realização do curso" style="swimlane;whiteSpace=wrap;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" parent="1" vertex="1">
