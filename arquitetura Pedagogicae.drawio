@@ -5,43 +5,67 @@
         <mxCell id="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="1" parent="X5NqExCQtvZxIxQ7pmgY-0" />
         <mxCell id="NjAqU9Y5rHBkyYTPuW-a-2" value="" style="shape=step;perimeter=stepPerimeter;strokeColor=none;fontFamily=Helvetica;fontSize=14;fontColor=#6C8EBF;fillColor=#99CCFF;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" parent="1" vertex="1">
-          <mxGeometry x="187" y="131" width="196" height="103" as="geometry" />
+          <mxGeometry x="161" y="133.5" width="220" height="109.5" as="geometry" />
         </mxCell>
         <mxCell id="NjAqU9Y5rHBkyYTPuW-a-3" value="" style="shape=step;perimeter=stepPerimeter;strokeColor=none;fontFamily=Helvetica;fontSize=14;fillColor=#FFFF99;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" parent="1" vertex="1">
-          <mxGeometry x="574" y="130" width="193" height="104" as="geometry" />
+          <mxGeometry x="588" y="133" width="220" height="106" as="geometry" />
         </mxCell>
         <mxCell id="NjAqU9Y5rHBkyYTPuW-a-5" value="" style="shape=step;perimeter=stepPerimeter;strokeColor=none;fontFamily=Helvetica;fontSize=14;fillColor=#B266FF;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" parent="1" vertex="1">
-          <mxGeometry x="385" y="130" width="191" height="104" as="geometry" />
+          <mxGeometry x="377" y="129.5" width="218" height="111" as="geometry" />
         </mxCell>
         <mxCell id="5kf5XrtwTiKyo_8FPi4g-1" value="" style="shape=step;perimeter=stepPerimeter;strokeColor=none;fontFamily=Helvetica;fontSize=14;fillColor=#FF9999;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" vertex="1" parent="1">
-          <mxGeometry x="1133" y="126" width="193" height="104" as="geometry" />
+          <mxGeometry x="1209" y="132" width="208.92" height="103" as="geometry" />
         </mxCell>
         <mxCell id="5kf5XrtwTiKyo_8FPi4g-2" value="" style="shape=step;perimeter=stepPerimeter;strokeColor=none;fontFamily=Helvetica;fontSize=14;fillColor=#99FF99;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" vertex="1" parent="1">
-          <mxGeometry x="762" y="126" width="187" height="104" as="geometry" />
+          <mxGeometry x="804" y="133" width="208" height="104" as="geometry" />
         </mxCell>
         <mxCell id="5kf5XrtwTiKyo_8FPi4g-3" value="" style="shape=step;perimeter=stepPerimeter;strokeColor=none;fontFamily=Helvetica;fontSize=14;fillColor=#FF99CC;fixedSize=1;size=17;fontStyle=1;strokeWidth=2;spacingTop=0;points=[];" vertex="1" parent="1">
-          <mxGeometry x="949" y="128" width="191" height="104" as="geometry" />
+          <mxGeometry x="1006" y="132" width="203" height="104" as="geometry" />
         </mxCell>
         <mxCell id="5kf5XrtwTiKyo_8FPi4g-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Abertura da&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&amp;nbsp;Formação&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="194.5" y="167" width="184" height="30" as="geometry" />
+          <mxGeometry x="171" y="173.25" width="184" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5kf5XrtwTiKyo_8FPi4g-5" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Módulo 1&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Pensamento Computacional&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="589" y="163" width="184" height="30" as="geometry" />
+          <mxGeometry x="606" y="167.5" width="184" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5kf5XrtwTiKyo_8FPi4g-7" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Módulo 2&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Metodologias&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Ativas&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="763.5" y="163" width="184" height="30" as="geometry" />
+          <mxGeometry x="822" y="170" width="184" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5kf5XrtwTiKyo_8FPi4g-8" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Módulo 3&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Instrumentos e Estratégias&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="956" y="165" width="184" height="30" as="geometry" />
+          <mxGeometry x="1012" y="168.5" width="184" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5kf5XrtwTiKyo_8FPi4g-9" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Módulo 4&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Finalização da&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Formação&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1142" y="163" width="184" height="30" as="geometry" />
+          <mxGeometry x="1228" y="167.5" width="184" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5kf5XrtwTiKyo_8FPi4g-10" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Sala de&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Aula Virtual&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="167" width="184" height="30" as="geometry" />
+          <mxGeometry x="399" y="164" width="184" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5kf5XrtwTiKyo_8FPi4g-11" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="187" y="238" width="181" height="167" as="geometry" />
+        <mxCell id="5kf5XrtwTiKyo_8FPi4g-11" value="&lt;li style=&quot;text-align: justify;&quot; data-start=&quot;78&quot; data-end=&quot;98&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Palestra online.&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot; data-start=&quot;99&quot; data-end=&quot;130&quot;&gt;&lt;font size=&quot;3&quot;&gt;Exposição sobre a temática.&lt;/font&gt;&lt;/li&gt;&lt;li data-start=&quot;131&quot; data-end=&quot;185&quot; style=&quot;text-align: justify;&quot;&gt;&lt;font size=&quot;3&quot;&gt;Apresentação dos objetivos e dinâmica da formação.&lt;/font&gt;&lt;/li&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="163" y="246" width="196" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="5kf5XrtwTiKyo_8FPi4g-12" value="&lt;li style=&quot;text-align: justify;&quot; data-end=&quot;249&quot; data-start=&quot;219&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Autoinscrição na formação.&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot; data-end=&quot;317&quot; data-start=&quot;250&quot;&gt;&lt;font size=&quot;3&quot;&gt;Acesso ao material de formação: textos, vídeos e apresentações.&lt;/font&gt;&lt;/li&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="375" y="244" width="200" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="5kf5XrtwTiKyo_8FPi4g-13" value="&lt;li style=&quot;text-align: justify;&quot; data-end=&quot;409&quot; data-start=&quot;366&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Introdução ao pensamento computacional.&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot; data-end=&quot;450&quot; data-start=&quot;410&quot;&gt;&lt;font size=&quot;3&quot; style=&quot;&quot;&gt;Pilares do Pensamento Computacional.&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot; data-end=&quot;495&quot; data-start=&quot;451&quot;&gt;&lt;font size=&quot;3&quot;&gt;Habilidades de Pensamento Computacional.&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot; data-end=&quot;529&quot; data-start=&quot;496&quot;&gt;&lt;font size=&quot;3&quot;&gt;Integração Curricular – BNCC.&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot; data-end=&quot;625&quot; data-start=&quot;530&quot;&gt;&lt;font size=&quot;3&quot;&gt;Incorporação do pensamento computacional em diferentes disciplinas e áreas do conhecimento.&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot; data-end=&quot;652&quot; data-start=&quot;626&quot;&gt;&lt;font size=&quot;3&quot;&gt;Questionário módulo 1.&lt;/font&gt;&lt;/li&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="592" y="297" width="184" height="232" as="geometry" />
+        </mxCell>
+        <mxCell id="5kf5XrtwTiKyo_8FPi4g-14" value="&lt;li style=&quot;text-align: justify;&quot; data-end=&quot;739&quot; data-start=&quot;696&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Metodologias Ativas: origem e conceito.&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot; data-end=&quot;826&quot; data-start=&quot;740&quot;&gt;&lt;font size=&quot;3&quot;&gt;Tipos de Metodologias Ativas: principais características e estratégias utilizadas.&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot; data-end=&quot;879&quot; data-start=&quot;827&quot;&gt;&lt;font size=&quot;3&quot;&gt;As Metodologias Ativas e sua relação com a BNCC.&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot; data-end=&quot;940&quot; data-start=&quot;880&quot;&gt;&lt;font size=&quot;3&quot;&gt;Como utilizar as Metodologias Ativas na prática docente.&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot; data-end=&quot;1012&quot; data-start=&quot;941&quot;&gt;&lt;font size=&quot;3&quot;&gt;Metodologias Ativas no desenvolvimento do Pensamento Computacional.&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot; data-end=&quot;1101&quot; data-start=&quot;1013&quot;&gt;&lt;font size=&quot;3&quot;&gt;Reflexão sobre a utilização da metodologia ativa no desenvolvimento da aprendizagem.&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot; data-end=&quot;1156&quot; data-start=&quot;1102&quot;&gt;&lt;font size=&quot;3&quot;&gt;Tecnologias educacionais para Metodologias Ativas.&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot; data-end=&quot;1187&quot; data-start=&quot;1157&quot;&gt;&lt;font size=&quot;3&quot;&gt;Atividades de aprendizado.&lt;/font&gt;&lt;/li&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="390" width="199" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="5kf5XrtwTiKyo_8FPi4g-16" value="&lt;li style=&quot;text-align: justify;&quot; data-end=&quot;1283&quot; data-start=&quot;1238&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Seleção de jogos e atividades funcionais.&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot; data-end=&quot;1321&quot; data-start=&quot;1284&quot;&gt;&lt;font size=&quot;3&quot; style=&quot;&quot;&gt;Avaliação do potencial educativo.&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot; data-end=&quot;1348&quot; data-start=&quot;1322&quot;&gt;&lt;font size=&quot;3&quot;&gt;Análise da utilização.&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot; data-end=&quot;1385&quot; data-start=&quot;1349&quot;&gt;&lt;font size=&quot;3&quot;&gt;Extração do potencial educativo.&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot; data-end=&quot;1431&quot; data-start=&quot;1386&quot;&gt;&lt;font size=&quot;3&quot;&gt;Desenvolvimento de estratégias de ensino.&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot; data-end=&quot;1458&quot; data-start=&quot;1432&quot;&gt;&lt;font size=&quot;3&quot;&gt;Adaptação de conteúdo.&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot; data-end=&quot;1490&quot; data-start=&quot;1459&quot;&gt;&lt;font size=&quot;3&quot;&gt;Atividades de Aprendizagem.&lt;/font&gt;&lt;/li&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1012" y="244" width="187" height="233" as="geometry" />
+        </mxCell>
+        <mxCell id="5kf5XrtwTiKyo_8FPi4g-17" value="&lt;li style=&quot;text-align: justify;&quot; data-end=&quot;1563&quot; data-start=&quot;1538&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Rubrica de avaliação.&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot; data-end=&quot;1620&quot; data-start=&quot;1564&quot;&gt;&lt;font size=&quot;3&quot;&gt;Avaliação da formação por meio de formulário online.&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot; data-end=&quot;1671&quot; data-start=&quot;1621&quot;&gt;&lt;font size=&quot;3&quot;&gt;Autoavaliação da consolidação da aprendizagem.&lt;/font&gt;&lt;/li&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1213" y="227" width="199" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="5kf5XrtwTiKyo_8FPi4g-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.418;entryY=0.867;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5kf5XrtwTiKyo_8FPi4g-9" target="5kf5XrtwTiKyo_8FPi4g-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5kf5XrtwTiKyo_8FPi4g-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.435;entryY=0.133;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5kf5XrtwTiKyo_8FPi4g-9" target="5kf5XrtwTiKyo_8FPi4g-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5kf5XrtwTiKyo_8FPi4g-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.614;entryY=1.167;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5kf5XrtwTiKyo_8FPi4g-7" target="5kf5XrtwTiKyo_8FPi4g-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
