@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="j5N_U0BPHo5mKiZYylUW-62" value="Arquitetura Pedagógica" style="text;strokeColor=#d6b656;fillColor=#fff2cc;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-504" y="-160" width="290" height="90" as="geometry" />
+          <mxGeometry x="-470" y="-180" width="290" height="90" as="geometry" />
         </mxCell>
         <mxCell id="j5N_U0BPHo5mKiZYylUW-63" value="Aspectos Metodologicos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-121" y="-150" width="110" height="70" as="geometry" />
@@ -58,7 +58,7 @@
         <mxCell id="j5N_U0BPHo5mKiZYylUW-82" value="Construção de objetos de aprendizagem." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-141" y="75" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="j5N_U0BPHo5mKiZYylUW-89" style="edgeStyle=none;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0.99;exitY=0.922;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="j5N_U0BPHo5mKiZYylUW-62">
+        <mxCell id="j5N_U0BPHo5mKiZYylUW-89" style="edgeStyle=none;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="j5N_U0BPHo5mKiZYylUW-62" target="j5N_U0BPHo5mKiZYylUW-63">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-121" y="-98" as="targetPoint" />
             <mxPoint x="-214" y="-70" as="sourcePoint" />
