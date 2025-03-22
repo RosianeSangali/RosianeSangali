@@ -1,9 +1,81 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="Página-1" id="rcNR0NiUTAn4mPrR4EF4">
-    <mxGraphModel>
+    <mxGraphModel dx="1941" dy="1761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="j5N_U0BPHo5mKiZYylUW-62" value="Arquitetura Pedagógica" style="text;strokeColor=#d6b656;fillColor=#fff2cc;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-504" y="-160" width="290" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="j5N_U0BPHo5mKiZYylUW-63" value="Aspectos Metodologicos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-121" y="-150" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="j5N_U0BPHo5mKiZYylUW-67" value="" style="edgeStyle=none;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="j5N_U0BPHo5mKiZYylUW-72" target="j5N_U0BPHo5mKiZYylUW-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j5N_U0BPHo5mKiZYylUW-68" value="" style="edgeStyle=none;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="j5N_U0BPHo5mKiZYylUW-72" target="j5N_U0BPHo5mKiZYylUW-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j5N_U0BPHo5mKiZYylUW-69" style="edgeStyle=none;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0.569;exitY=1.091;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="j5N_U0BPHo5mKiZYylUW-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="59" y="105" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j5N_U0BPHo5mKiZYylUW-70" style="edgeStyle=none;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="j5N_U0BPHo5mKiZYylUW-72" target="j5N_U0BPHo5mKiZYylUW-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j5N_U0BPHo5mKiZYylUW-71" style="edgeStyle=none;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.824;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="j5N_U0BPHo5mKiZYylUW-72" target="j5N_U0BPHo5mKiZYylUW-82">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-51" y="145" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j5N_U0BPHo5mKiZYylUW-72" value="Método" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-54" y="-46" width="140" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="j5N_U0BPHo5mKiZYylUW-73" value="Autoinstrucional" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="94" y="60" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j5N_U0BPHo5mKiZYylUW-74" value="Disponibilização de Atividades&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="159" y="5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j5N_U0BPHo5mKiZYylUW-75" value="Seleção do Conteúdo a ser apresentado" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="139" y="-65" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j5N_U0BPHo5mKiZYylUW-76" value="Recomendação de Material para estudo&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-141" y="19" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j5N_U0BPHo5mKiZYylUW-77" value="Atividades por módulo" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="29" y="105" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j5N_U0BPHo5mKiZYylUW-78" style="edgeStyle=none;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="j5N_U0BPHo5mKiZYylUW-76" target="j5N_U0BPHo5mKiZYylUW-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j5N_U0BPHo5mKiZYylUW-81" style="edgeStyle=none;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="j5N_U0BPHo5mKiZYylUW-82">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-56" y="84" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j5N_U0BPHo5mKiZYylUW-82" value="Construção de objetos de aprendizagem." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-141" y="75" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j5N_U0BPHo5mKiZYylUW-89" style="edgeStyle=none;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;exitX=0.99;exitY=0.922;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="j5N_U0BPHo5mKiZYylUW-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-121" y="-98" as="targetPoint" />
+            <mxPoint x="-214" y="-70" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j5N_U0BPHo5mKiZYylUW-90" value="" style="edgeStyle=none;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-33" y="-80" as="sourcePoint" />
+            <mxPoint x="-1" y="-46" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j5N_U0BPHo5mKiZYylUW-91" value="" style="edgeStyle=none;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="86" y="-29" as="sourcePoint" />
+            <mxPoint x="139" y="-35" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
