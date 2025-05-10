@@ -2107,24 +2107,42 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3dYln3Qqzz1rWS54RyNX" name="Página-5">
-    <mxGraphModel dx="1106" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1106" dy="1766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="POL4e_aIYbeDsAwelUxL-1" value="Capacidade humana" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="340" y="120" width="120" height="200" as="geometry" />
+          <mxGeometry x="370" y="90" width="80" height="200" as="geometry" />
         </mxCell>
         <mxCell id="POL4e_aIYbeDsAwelUxL-2" value="Aspectos humanos" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="150" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="POL4e_aIYbeDsAwelUxL-4" value="Competência Pessoal" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="550" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="550" y="50" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="POL4e_aIYbeDsAwelUxL-5" value="Pessoa&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Aspectos%20humanos%22%20style%3D%22whiteSpace%3Dwrap%3Bhtml%3D1%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22130%22%20y%3D%2270%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="130" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="290" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="POL4e_aIYbeDsAwelUxL-6" value="produção de tarefas" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="550" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="550" y="290" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="POL4e_aIYbeDsAwelUxL-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="POL4e_aIYbeDsAwelUxL-8" target="POL4e_aIYbeDsAwelUxL-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="POL4e_aIYbeDsAwelUxL-8" value="Empatia e Cooperação&amp;nbsp;&lt;div&gt;(Atitude/modo)&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="-20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="POL4e_aIYbeDsAwelUxL-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="POL4e_aIYbeDsAwelUxL-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100" y="50" />
+              <mxPoint x="231" y="50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="POL4e_aIYbeDsAwelUxL-12" value="Conhecimento&lt;div&gt;(modo)&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-20" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
